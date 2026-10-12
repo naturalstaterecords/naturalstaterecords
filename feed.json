@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Natural State Records",
+    "description": "",
+    "home_page_url": "https://github.io",
+    "feed_url": "https://github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Studio III"
+    },
+    "items": [
+        {
+            "id": "https://github.io/natural-state-records.html",
+            "url": "https://github.io/natural-state-records.html",
+            "title": "Natural State Records",
+            "author": {
+                "name": "Studio III"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-12T17:20:34+02:00",
+            "date_modified": "2026-10-12T17:20:34+02:00"
+        }
+    ]
+}
