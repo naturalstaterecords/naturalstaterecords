@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Natural State Records",
     "description": "",
-    "home_page_url": "https://github.io",
-    "feed_url": "https://github.io/feed.json",
+    "home_page_url": "https://naturalstaterecords.github.io",
+    "feed_url": "https://naturalstaterecords.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Studio III"
     },
     "items": [
         {
-            "id": "https://github.io/natural-state-records.html",
-            "url": "https://github.io/natural-state-records.html",
+            "id": "https://naturalstaterecords.github.io/natural-state-records.html",
+            "url": "https://naturalstaterecords.github.io/natural-state-records.html",
             "title": "Natural State Records",
             "author": {
                 "name": "Studio III"

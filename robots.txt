@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.io/sitemap.xml
+Sitemap: https://naturalstaterecords.github.io/sitemap.xml
